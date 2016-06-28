@@ -1,0 +1,8 @@
+.rcorners {
+    border-radius: 4px;
+}
+
+.project-image {
+    float:left;
+    margin-right: 1.5em;
+}
