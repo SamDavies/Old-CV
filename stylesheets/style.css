@@ -3,15 +3,19 @@
 }
 
 .project-image-left {
-    float:left;
+    float: left;
     margin-right: 1.5em;
 }
 
 .project-image-right {
-    float:right;
+    float: right;
     margin-left: 1.5em;
 }
 
 .icon-links {
     padding-right: 0.5em;
+}
+
+.icons-parent a {
+    color: inherit;
 }
